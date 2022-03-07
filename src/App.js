@@ -6,6 +6,7 @@ import Modal from "./components/Modal/Modal";
 import Backdrop from "./components/Backdrop/Backdrop";
 import List from "./components/List/List";
 
+
 class App extends Component {
   state = {
     modalIsOpen: false,
